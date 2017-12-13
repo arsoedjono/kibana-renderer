@@ -8,7 +8,7 @@ A chrome extension to render Kibana query result and export it into CSV file for
 
 ### How to Use
 
-1. Clone this repo
+1. Clone this repo or download the latest version in zip/tar [here](https://github.com/arsoedjono/kibana-renderer/releases) and unzip it
 
 ```bash
 git clone git@github.com:arsoedjono/kibana-renderer.git
