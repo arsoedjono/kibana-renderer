@@ -1,11 +1,3 @@
-/*
- * csv.js
- * convert query result bodies into CSV file
- *
- * created by Aranda Rizki Soedjono
- * QAE at bukalapak.com
- */
-
 Array.prototype.diff = function(a) {
   return this.filter(function(i) {return a.indexOf(i) < 0;})
 };

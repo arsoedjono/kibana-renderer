@@ -1,11 +1,3 @@
-/*
- * csv.js
- * convert query result bodies into CSV file
- *
- * created by Aranda Rizki Soedjono
- * QAE at bukalapak.com
- */
-
 function getBodies() {
   var bodies = document.getElementsByClassName('truncate-by-height')
   var arr = []
